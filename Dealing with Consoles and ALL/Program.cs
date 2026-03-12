@@ -80,7 +80,8 @@
    /\_/\
   ( o.o )
    > ^ <
-";
+
+All done";
 
                     Console.ForegroundColor = ConsoleColor.Cyan;
                     Console.WriteLine("Here is your ASCII cat:");
